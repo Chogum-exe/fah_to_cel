@@ -1,0 +1,9 @@
+[package]
+name = "fah_to_cel"
+version = "0.1.0"
+authors = ["Soooham <75951802+Chogum-exe@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
